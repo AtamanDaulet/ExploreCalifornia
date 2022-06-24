@@ -7,7 +7,6 @@ import javax.validation.constraints.Size;
 
 /**
  * Data Transfer Object for Rating a Tour.
- *
  */
 public class RatingDto {
 
